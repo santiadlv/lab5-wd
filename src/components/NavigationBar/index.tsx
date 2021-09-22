@@ -3,7 +3,10 @@ import "./index.css";
 import { AppBar, IconButton, Typography, Toolbar } from "@material-ui/core";
 import MenuIcon from "@material-ui/icons/Menu";
 
-
+/**
+ * NavigationBar elements
+ * @returns NavigationBar UI elements
+ */
 const NavigationBar = () => {
     return(
         <AppBar className="navbar" position="static">
