@@ -28,7 +28,7 @@ const ProductInfo=()=>{
                         </Typography>
                     </Grid>
                     <Grid item lg={2}>
-                        <Typography className="dollars">
+                        <Typography className="dollars discount">
                             706.93
                         </Typography>                
                     </Grid>
