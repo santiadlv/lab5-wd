@@ -11,7 +11,7 @@ const ProductInfo=()=>{
             <Grid container className="productGrid" spacing={2}>
                 <Grid item lg={4}>
                     <Paper className="largeImage" >
-                        <img src="https://dummyimage.com/500x500/000/0011ff" />
+                        <img src="https://dummyimage.com/500x500/000/0011ff" alt = "Levi's 501 Original Fit Jeans Jeans para Hombre"/>
                     </Paper>
                 </Grid>
                 <Grid item lg={8} container>
